@@ -23,7 +23,7 @@
 To install via npm:
 
 ```sh
-npm install scormcloud-api-wrapper --save
+npm install https://github.com/bluesky66-dev/scormcloud-api-wrapper.git --save
 ```
 
 ## Usage
