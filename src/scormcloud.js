@@ -1650,8 +1650,8 @@ SCORMCloud.prototype._request = function (url, options, callback) {
     }
 
     let requestOptions = {
-        "formData": options.formData ? options.formData : {},
-        "url": options.secretKey ? this._getUrl(url, options.secretKey) : this._getUrl(url)
+        form: options.formData ? options.formData : {},
+        url: options.secretKey ? this._getUrl(url, options.secretKey) : this._getUrl(url)
     }
 
     // See https://www.npmjs.com/package/request
