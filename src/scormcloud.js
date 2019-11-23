@@ -1,7 +1,7 @@
 'use strict';
 
 const fs = require('fs');
-const { URL, URLSearchParams } = require('url');
+const { URL, URLSearchParams } = require('universal-url');
 const util = require('util');
 
 var _ = require('lodash');
