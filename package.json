@@ -6,7 +6,7 @@
   "description": "Node.js client for the SCORM Cloud API.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/swestmoreland/scormcloud-api-wrapper.git"
+    "url": "git+https://github.com/bluesky66-dev/scormcloud-api-client.git"
   },
   "keywords": [
     "api",
